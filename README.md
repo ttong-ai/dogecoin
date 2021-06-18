@@ -1,6 +1,6 @@
 # SagieCoin Core [SAGIE, 💲]
 
-![SagieCoin](images/SagieCoin.png)
+![SagieCoin](images/SagieCoin_300px.png)
 
 [![Build Status](https://travis-ci.com/sagiecoin/sagiecoin.svg?branch=master)](https://travis-ci.com/sagiecoin/)
 
