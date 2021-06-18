@@ -1,4 +1,4 @@
-# SagieCoin Core [DOGE, Ð]
+# SagieCoin Core [SAGIE, 💲]
 
 ![Dogecoin](https://static.tumblr.com/ppdj5y9/Ae9mxmxtp/300coin.png)
 
